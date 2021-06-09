@@ -1,7 +1,11 @@
 # Python-Mini-Games
 A simple playable game just for fun time 
 
+This game is for everyone who has desire to learn Python. The game complexity increases with every level and we will be able to rise your knowledge throughout the game.
 
+I have develop amazing games and I have done Python working by moving things on screen and objects interaction. I have also create and import pictures used in the games and get familiar with creating randomly movable enemies, animating the game characters and playing music and sounds while playing the game. This makes game more interesting while playing.
+
+I have use Python and visual studio to create games with progressively increased difficulty. In this game I will be able to fully design operational game including creation of objects and positioning of custom pictures and other components on the gameplay.
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
