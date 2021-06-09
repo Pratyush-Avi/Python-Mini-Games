@@ -7,9 +7,7 @@ I have develop amazing games and I have done Python working by moving things on 
 
 I have use Python and visual studio to create games with progressively increased difficulty. In this game I will be able to fully design operational game including creation of objects and positioning of custom pictures and other components on the gameplay.
 
-This course covers the following Python topics:
-
-Animating game objects
+This variety of games covers the following Python libraries and packages such as animating game objects as tkinter, 
 
 Implementing loops and classes
 
