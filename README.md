@@ -32,7 +32,7 @@ I will be using dictionary which is an primitive data type in python which store
 
 ## Guess The Number
 
-This is going to be a simple guessing game where the computer will generate a random number between 1 to 1000, and the user has to guess it in ultimate attempts. Based on the user’s guess computer will give various hints if the number is high or low. When the user guess matches the number computer will print the answer along with the number of attempts.
+This is going to be a simple guessing game where the computer will generate a random number between 1 to 1000, and the user has to guess it in ultimate attempts. Based on the user’s guess computer will give various hints if the number is high or low. When the user guess matches the number computer will print the answer along with the number of attempts. To generate a random number I will use a Python module named random to use this module in our program, we just need to import it.
 
 ## Brick Breaker
 
