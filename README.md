@@ -23,6 +23,7 @@ This variety of games covers the following Python libraries and packages such as
 
 ## Tic Tac Toe
 
+The board is numbered like the keyboard’s number pad. And thus, a player can make their move in the game board by entering the number from the keyboard number pad.
 
 ## Guess The Number
 
