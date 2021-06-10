@@ -23,6 +23,7 @@ This variety of games covers the following Python libraries and packages such as
 
 ## Tic Tac Toe
 
+Its very beginner-friendly game and it covers almost all the functions and collections of python. So, while implementing I came across TicTacToe game implementation in python.
 The board is numbered like the keyboard’s number pad. And thus, a player can make their move in the game board by entering the number from the keyboard number pad alternatively.
 
 ## Guess The Number
