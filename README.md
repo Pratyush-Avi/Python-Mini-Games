@@ -7,7 +7,7 @@ I have develop amazing games and I have done Python working by moving things on 
 
 I have use Python and visual studio to create games with progressively increased difficulty. In this game I will be able to fully design operational game including creation of objects and positioning of custom pictures and other components on the gameplay.
 
-This variety of games covers the following Python libraries and packages such as animating game objects as tkinter, implementing loops and classes, using Pygame package to simplify game development, animating game text using custom fonts, development of menu screens and buttons, taking input from the mouse/touch/keyboard, randomizing game events, resizing game objects
+This variety of games covers the following Python libraries and packages such as animating game objects as tkinter, implementing loops and classes, using Pygame package to simplify game development, animating game text using custom fonts, development of menu screens and buttons, taking input from the mouse/touch/keyboard, randomizing game events, resizing game objects.
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -25,6 +25,7 @@ This variety of games covers the following Python libraries and packages such as
 
 Its very beginner-friendly game and it covers almost all the functions and collections of python. So, while implementing I came across TicTacToe game implementation in python.
 The board is numbered like the keyboard’s number pad. And thus, a player can make their move in the game board by entering the number from the keyboard number pad alternatively.
+I will be using dictionary which is an primitive data type in python which stores data in “key: value” format. and thus, I will create a dictionary of length 9 and each key will represent a block in the board and its corresponding value will represent the move made by a player. and than I will create a function printBoard() which I can use every time I want to print the updated board in the game.
 
 ## Guess The Number
 
