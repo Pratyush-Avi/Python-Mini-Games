@@ -27,6 +27,9 @@ Its very beginner-friendly game and it covers almost all the functions and colle
 The board is numbered like the keyboard’s number pad. And thus, a player can make their move in the game board by entering the number from the keyboard number pad alternatively.
 I will be using dictionary which is an primitive data type in python which stores data in “key: value” format. and thus, I will create a dictionary of length 9 and each key will represent a block in the board and its corresponding value will represent the move made by a player. and than I will create a function printBoard() which I can use every time I want to print the updated board in the game.
 
+![image](https://user-images.githubusercontent.com/75266216/121560458-25baab00-ca35-11eb-8a15-3c540ab09a50.png)
+
+
 ## Guess The Number
 
 
