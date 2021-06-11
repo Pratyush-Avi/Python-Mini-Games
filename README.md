@@ -39,7 +39,7 @@ This is going to be a simple guessing game where the computer will generate a ra
 
 ## Brick Breaker
 
-I will be using Tkinter Package which is an developing GUI(Graphical User Interface). Out of all the GUI methods, it is the most commonly used method. It is a standard python interface to the Tk GUI toolkit which is shipped with python. Python with tkinter gives the output is the fastest and easiest way to create GUI. The 'self' keyword is the instance of the class. By using the ‘self ‘ keyword we can access all the attributes and methods of class python.
+I will be using Tkinter Package which is an developing GUI(Graphical User Interface). Out of all the GUI methods, it is the most commonly used method. It is a standard python interface to the Tk GUI toolkit which is shipped with python. Python with tkinter gives the output is the fastest and easiest way to create GUI. The 'self' keyword is used for instance of the class. By using the ‘self ‘ keyword we can access all the attributes and methods of class python.
 
 The 'def' is the keyword used as a function header of all the function i.e It is used to define a function.
 
