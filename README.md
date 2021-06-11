@@ -39,6 +39,6 @@ This is going to be a simple guessing game where the computer will generate a ra
 
 ## Brick Breaker
 
-I will be using Tkinter Package which is an developing GUI(Graphical User Interface). Out of all the GUI methods, it is the most commonly used method. It is a standard python interface to the Tk GUI toolkit which is shipped with python. Python with tkinter gives the output is the fastest and easiest way to create GUI.
+I will be using Tkinter Package which is an developing GUI(Graphical User Interface). Out of all the GUI methods, it is the most commonly used method. It is a standard python interface to the Tk GUI toolkit which is shipped with python. Python with tkinter gives the output is the fastest and easiest way to create GUI. 
 
 ## Bunny Hitman
