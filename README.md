@@ -46,4 +46,6 @@ I will be using Tkinter Package which is an developing GUI(Graphical User Interf
 
 > There is also an ‘__init__’ which is a reserved method in python. It other words is called as constructor. When this method is called an object is created from the class and it allows the class to initialize the attributes of the class.
 
+![image](https://user-images.githubusercontent.com/75266216/121652381-36146980-cab9-11eb-85f2-de8d8a057d93.png)
+
 ## Bunny Hitman
