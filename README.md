@@ -39,9 +39,7 @@ This is going to be a simple guessing game where the computer will generate a ra
 
 ## Brick Breaker
 
-I will be using Tkinter Package which is an developing GUI(Graphical User Interface). Out of all the GUI methods, it is the most commonly used method. It is a standard python interface to the Tk GUI toolkit which is shipped with python. Python with tkinter gives the output is the fastest and easiest way to create GUI. The 'self' keyword is used for instance of the class. By using the ‘self ‘ keyword we can access all the attributes and methods of class python.
-
-Than there is 'def' keyword used as a function header of all the function which is used to define a function.
+I will be using Tkinter Package which is an developing GUI(Graphical User Interface). Out of all the GUI methods, it is the most commonly used method. It is a standard python interface to the Tk GUI toolkit which is shipped with python. Python with tkinter gives the output is the fastest and easiest way to create GUI. The 'self' keyword is used for instance of the class. By using the ‘self ‘ keyword we can access all the attributes and methods of class python. Than there is 'def' keyword used as a function header of all the function which is used to define a function.
 
 The ‘__init__’ is a reserved method in python. It other words it is a constructor. When this method is called an object is created from the class and it allows the class to initialize the attributes of the class.
 
