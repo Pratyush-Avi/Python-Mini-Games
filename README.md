@@ -54,4 +54,5 @@ A simple game in python where the hero, the bunny, has to defend a castle agains
 
 ## How to play?
 
+1. Install [Python](http://www.python.org/download/). Make sure you grab the 2.7.x version and NOT the 3.3.x version!
 
