@@ -50,12 +50,13 @@ I will be using Tkinter Package which is an developing GUI(Graphical User Interf
 
 ## Bunny Hitman
 
-A simple game in python where the hero, the bunny, has to defend a castle against an attacking horde of badgers. In this game, we’ll create a simple game called Bunny Hitman Badgers, where the hero, the bunny, has to defend a castle against an attacking horde of badgers. 
-Import the PyGame library. This allows you to use functions from the library in your program.
+A simple game in python where the hero, the bunny, has to defend a castle against an attacking horde of badgers. In this game, we’ll create a simple game called Bunny Hitman Badgers, where the hero, the bunny, has to defend a castle against an attacking horde of badgers. Some of main function used while creating the game are:
+
+> Import the PyGame library. This allows you to use functions from the library in your program.
 Initialize PyGame and set up the display window.
 Load the image that you will use for the bunny.
 Keep looping over the following indented code.
-Note: Where other languages like Objective-C, Java or PHP use curly braces to show a block of code to be executed within a while loop or an if statement, Python uses indenting to identify code blocks. So proper indentation is very important in Python – keep that in mind. :]
+
 
 Fill the screen with black before you draw anything.
 Add the bunny image that you loaded to the screen at x=100 and y=100.
