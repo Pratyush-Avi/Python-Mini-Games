@@ -56,8 +56,9 @@ A simple game in python where the hero, the bunny, has to defend a castle agains
 
 > Initialize PyGame and set up the display window.
 
-> Load the image that you will use for the bunny.
-Keep looping over the following indented code.
+> Load the image that you will use for the bunny. 
+
+> Keep looping over the following indented code.
 
 
 Fill the screen with black before you draw anything.
