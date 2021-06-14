@@ -60,10 +60,12 @@ A simple game in python where the hero, the bunny, has to defend a castle agains
 
 > Keep looping over the following indented code.
 
-
 Fill the screen with black before you draw anything.
+
 Add the bunny image that you loaded to the screen at x=100 and y=100.
+
 Update the screen.
+
 Check for any new events and if there is one, and it is a quit command, exit the program.
 
 #### How to play?
