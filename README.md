@@ -55,6 +55,7 @@ A simple game in python where the hero, the bunny, has to defend a castle agains
 > Import the PyGame library. This allows you to use functions from the library in your program.
 
 > Initialize PyGame and set up the display window.
+
 > Load the image that you will use for the bunny.
 Keep looping over the following indented code.
 
