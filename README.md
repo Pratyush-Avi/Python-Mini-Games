@@ -50,7 +50,7 @@ I will be using Tkinter Package which is an developing GUI(Graphical User Interf
 
 ## Bunny Hitman
 
-A simple game in python where the hero, the bunny, has to defend a castle against an attacking horde of badgers. In this game, we’ll create a simple game called Bunny Hitman Badgers, where the hero, the bunny, has to defend a castle against an attacking horde of badgers. Some of main function used while creating the game are:
+A simple game in python where the hero, the bunny, has to defend a castle against an attacking horde of badgers. In this game, we’ll create a simple game called Bunny Hitman Badgers, where the hero, the bunny, has to defend a castle against an attacking horde of badgers. Some of main rules to be followed while creating the game are:
 
 > Import the PyGame library. This allows you to use functions from the library in your program.
 
