@@ -62,7 +62,7 @@ A simple game in python where the hero, the bunny, has to defend a castle agains
 
 > Fill the screen with black before you draw anything.
 
- Add the bunny image that you loaded to the screen at x=100 and y=100.
+> Add the bunny image that you loaded to the screen at x=100 and y=100.
 
  Update the screen.
 
