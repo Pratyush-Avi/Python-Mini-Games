@@ -1,4 +1,4 @@
-# Python-Mini-Games
+# Python-Mini-Games 
 A simple playable game just for fun time      
 
 This game is for everyone who has desire to learn Python. The game complexity increases with every level and we will be able to rise our knowledge throughout the game.
